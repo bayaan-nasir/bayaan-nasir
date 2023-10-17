@@ -8,5 +8,10 @@
 - Currently studying Computer Engineering
 - You can access my open-source projects here on [Github](https://github.com/bayaan-nasir)
 
+### Technologies I use
+![My Skills](https://skillicons.dev/icons?i=css,dart,django,docker,express,firebase,flutter,github,go,html,js,kotlin,md,mongodb,nextjs,nodejs,py,react,redux,sass,sqlite,ts,vscode)
+
+...and counting...
+
 ## Latest GitHub Metrics
 ![Metrics](/github-metrics.svg)
