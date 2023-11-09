@@ -1,13 +1,8 @@
-<style>
-  .test {
-    color: red;
-  }
-</style>
 ![Header](/messagif.gif)
 
 ![Visitors](https://vbr.wocr.tk/badge?page_id=bayaan-nasir.bayaan-nasir)
 
-<h2 class="test">📖 About Me</h2>
+<h2 style="color: #430203;">📖 About Me</h2>
 - 💻 Software Engineer with a desire to learn more and grow
 - Mostly do web development 
 - Currently studying Computer Engineering
