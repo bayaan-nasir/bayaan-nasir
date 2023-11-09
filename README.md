@@ -15,4 +15,4 @@
 
 ## Latest GitHub Metrics
 ![Wakatime Activity](/images/stat.svg)
-![Metrics](/images/github-metrics.svg)
+![Metrics](/github-metrics.svg)
