@@ -14,4 +14,5 @@
 ...and counting...
 
 ## Latest GitHub Metrics
-![Metrics](/github-metrics.svg)
+![Wakatime Activity](/images/stat.svg)
+![Metrics](/images/github-metrics.svg)
