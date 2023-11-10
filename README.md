@@ -1,6 +1,11 @@
-![Header](/messagif.gif)
+<p align="center">
+  <img src="/messagif.gif" alt="Banner" width="100%">
+</p>
 
-![Visitors](https://vbr.wocr.tk/badge?page_id=bayaan-nasir.bayaan-nasir)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bayaan-nasir/count.svg" />
+</p>
 
 ## 📖 About Me
 - 💻 Software Engineer with a desire to learn more and grow
